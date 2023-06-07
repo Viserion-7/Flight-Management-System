@@ -1,6 +1,8 @@
 # Flight-Management-System
 
-This is a Flight System project developed in Python. It provides a simple yet efficient solution for managing flights, user access control, and data storage using CSV files.
+This is a Flight System project developed in Python. It provides a simple yet efficient solution for managing flights, user access control, and data storage using CSV files. 
+
+A simple word document is included which is a documentation based on it.
 
 ## Features
 - User roles: Different user access levels for viewing, adding, canceling, searching, and sorting flights.
