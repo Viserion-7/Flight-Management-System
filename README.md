@@ -13,7 +13,7 @@ A simple word document is included which is a documentation based on it.
 ## Setup
 1. Clone the repository.
 2. Install Python (version X.X.X) and the required dependencies.
-3. Run `python main.py` to start the Flight System.
+3. Run `python flight.py` to start the Flight System.
 
 ## Usage
 - Use the command-line interface to interact with the Flight System.
